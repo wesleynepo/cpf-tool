@@ -1,0 +1,6 @@
+{
+    "name": "CPF Tool",
+    "description": "Tool to help developers and QA to speed up valid CPF generation",
+    "version": "0.1",
+    "manifest_version": 3
+}
